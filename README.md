@@ -22,3 +22,32 @@ Topology: <br/>
 - <b>Windows 10 (21H2)</b>
 
 <h2>Project walk-through:</h2>
+
+<h3>Follow the steps below to configure network services on DC1 and CL1:</h3>
+<p><strong>.</strong></p>
+<p><strong>.</strong></p>
+<b>
+<p>Log into CL1 using Admin Credentials.</p>
+<img src="https://imgur.com/bweXxEX.png" height="50%" width="50%" alt="install AD DS"/>
+<p><strong>.</strong></p>
+<p><strong>.</strong></p>
+<p>Install "RSAT: Active Directory Domain Service".</p>
+<img src="https://imgur.com/vQthjfc.png" height="50%" width="50%" alt="install AD DS"/>
+<p><strong>.</strong></p>
+<p><strong>.</strong></p>
+<p>Use Active Directory Users and Computers to create an "Employees" Ogranizational Unit.</p>
+<img src="https://imgur.com/hMCK0pn.png" height="50%" width="50%" alt="install AD DS"/>
+<p><strong>.</strong></p>
+<p><strong>.</strong></p>
+<p>Use PowerShell ISE to change the execution policy to "Unrestricted".</p>
+<img src="https://imgur.com/8J3PcKA.png" height="50%" width="50%" alt="install AD DS"/>
+<p><strong>.</strong></p>
+<p><strong>.</strong></p>
+<p>Run the PowerShell script.</p>
+<img src="https://imgur.com/47f54mA.png" height="50%" width="50%" alt="install AD DS"/>
+<p><strong>.</strong></p>
+<p><strong>.</strong></p>
+<p>Use Active Directory to verify the creation of the accounts.</p>
+<img src="https://imgur.com/kJajKY5.png" height="50%" width="50%" alt="install AD DS"/>
+<p><strong>.</strong></p>
+<p><strong>.</strong></p>
