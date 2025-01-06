@@ -51,3 +51,18 @@ Topology: <br/>
 <img src="https://imgur.com/kJajKY5.png" height="50%" width="50%" alt="install AD DS"/>
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
+</b>
+<h2> Final Thoughts </h2>
+
+<p>
+We've successfully used PowerShell to create users in our domain. This script allowed us to extract employee data from an excel sheet and create their account which showed automation. We now have multiple accounts in our domain.</p>
+
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
