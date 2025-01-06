@@ -14,7 +14,7 @@ Topology: <br/>
 
 <h2>Key Configurations</h2>
 
-- <b>Active Directory User Creation.<b>
+- <b>Active Directory User Creation<b>
 
 <h2>Environments Used </h2>
 
